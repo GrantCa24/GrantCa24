@@ -1,6 +1,7 @@
 ### Hi there 👋
-## I'm currently learning SQL
-## I hope to become a business analyst in the near future
+- 💻I'm currently learning SQL
+- 🏂I'm on the way of becoming a business analyst
+
 <!--
 **GrantCa24/GrantCa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
