@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 💻I'm currently learning SQL
 - 🏂I'm on the way of becoming a business analyst
 
 <!--
